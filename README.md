@@ -35,7 +35,7 @@ Cookie Analyzer funziona interamente in locale. Nessun dato viene salvato o tras
 
 ## Contribuire
 
-Suggerimenti, correzioni e nuove funzionalità sono benvenute. Consulta il file `CONTRIBUTING.md` per partecipare.
+Suggerimenti, correzioni e nuove funzionalità sono benvenute. Consulta il file `Suggests.txt` per partecipare.
 
 ## Licenza
 
